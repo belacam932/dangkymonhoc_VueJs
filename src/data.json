@@ -1,0 +1,56 @@
+[
+   {
+    "SinhVien":
+        [
+            {
+                "id" : 1,
+                "mssv": 514220671,
+                "ten" :"Trương Minh Thảo"
+            },
+            {
+                "id" : 2,
+                "mssv": 501220782,
+                "ten" :"Nguyễn Văn Bền"
+            },
+            {
+                "id" : 3,
+                "mssv": 501220783,
+                "ten" :"Nguyễn Thị Ngọc Của"
+            }
+        ]
+   },
+   {
+        "MonHoc":
+        [
+            {
+                "idMonhoc":1,
+                "tenMon":"Ứng Dụng Web"
+            },
+            {
+                "idMonhoc":2,
+                "tenMon":"Xây Dựng Ứng Dụng Đa Nền Tảng"
+            },
+            {
+                "idMonhoc":3,
+                "tenMon":"PHP 2"
+            },
+            {
+                "idMonhoc":4,
+                "tenMon":"Thiết Kế Đồ Họa"
+            },
+            {
+                "idMonhoc":5,
+                "tenMon":"Cấu Trúc Máy Tính"
+            },{
+                "idMonhoc":6,
+                "tenMon":"PHP 1"
+            },{
+                "idMonhoc":7,
+                "tenMon":"Xây Dựng Web Phía Máy Chủ"
+            },{
+                "idMonhoc":8,
+                "tenMon":"Tiếng Anh 1"
+            }
+        ]
+   }
+]
